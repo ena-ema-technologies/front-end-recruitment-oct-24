@@ -72,7 +72,7 @@ Develop a Task Management application focusing on frontend development using Nex
 
    - Ensure the application is fully responsive and works seamlessly on both desktop and mobile devices.
    - Follow accessibility best practices (e.g., ARIA roles, keyboard navigation, etc.).
-   - Style the application using either plain CSS or Tailwind CSS to create a modern, user-friendly design.
+   - Style the application using either plain CSS to create a modern, user-friendly design.
 
 **Backend Integration:**
 
