@@ -1,4 +1,4 @@
-### Task Description: **"Dynamic Task Management Application with Basic Backend Integration"**
+### **"Dynamic Task Management Application with Basic Backend Integration"**
 
 ---
 
